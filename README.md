@@ -3,4 +3,4 @@ internet working 2569
 
 นายภูริภัทร สาชะรุง 673380503-8 section 1
 
-โฟลเดอร์Lab : สำหรับรวบรวมงานLab
+โฟลเดอร์Lab : สำหรับรวบรวมงานLab, Final Project (pre_capstone_list), ใบ Certificate จาก netacad
